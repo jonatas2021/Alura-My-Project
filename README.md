@@ -15,8 +15,8 @@ Trabalhar com intervalos.
 ## O setInterval: 
 é perfeito para este cenário, de incrementar o tempo decorrido a cada segundo.
 
-##Refatorar Componentes;
-##Emitir eventos customizados ($emit) e Ouvir eventos customizados.
+## Refatorar Componentes;
+## Emitir eventos customizados ($emit) e Ouvir eventos customizados;
 ```
 npm install
 ```
