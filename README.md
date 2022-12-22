@@ -14,6 +14,9 @@ O Vue ajuda a trabalhar com eventos, basta utilizar a sintaxe @NOMEDOEVENTO dire
 Trabalhar com intervalos.
 ## O setInterval: 
 é perfeito para este cenário, de incrementar o tempo decorrido a cada segundo.
+
+##Refatorar Componentes;
+##Emitir eventos customizados ($emit) e Ouvir eventos customizados.
 ```
 npm install
 ```
